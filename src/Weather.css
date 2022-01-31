@@ -1,4 +1,25 @@
-.weather ul {
+ul {
   list-style-type: none;
   padding: 0px;
+}
+
+.city {
+  font-size: 21px;
+}
+.temperature {
+  font-size: 64px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.units {
+  position: relative;
+  top: -34px;
+}
+
+.img {
+  position: relative;
+  top: -15px;
 }

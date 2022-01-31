@@ -8,42 +8,76 @@ export default function Forecast() {
       <div class="col-2">
         <ul>
           <li>Mon</li>
-          <li>img</li>
+          <img
+            src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
+            alt="cloudy"
+            className="img"
+          />
           <li>4°</li>
         </ul>
       </div>
       <div class="col-2">
         <ul>
-          <li>Mon</li>
-          <li>img</li>
+          <li>Tues</li>
+          <li>
+            <img
+              src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
+              alt="cloudy"
+              className="img"
+            />
+          </li>
           <li>4°</li>
         </ul>
       </div>
       <div class="col-2">
         <ul>
-          <li>Mon</li>
-          <li>img</li>
+          <li>Wed</li>
+          <li>
+            <img
+              src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
+              alt="cloudy"
+              className="img"
+            />
+          </li>
           <li>4°</li>
         </ul>
       </div>
       <div class="col-2">
         <ul>
-          <li>Mon</li>
-          <li>img</li>
+          <li>Thur</li>
+          <li>
+            <img
+              src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
+              alt="cloudy"
+              className="img"
+            />
+          </li>
           <li>4°</li>
         </ul>
       </div>
       <div class="col-2">
         <ul>
-          <li>Mon</li>
-          <li>img</li>
+          <li>Fri</li>
+          <li>
+            <img
+              src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
+              alt="cloudy"
+              className="img"
+            />
+          </li>
           <li>4°</li>
         </ul>
       </div>
       <div class="col-2">
         <ul>
-          <li>Mon</li>
-          <li>img</li>
+          <li>Sat</li>
+          <li>
+            <img
+              src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
+              alt="cloudy"
+              className="img"
+            />
+          </li>
           <li>4°</li>
         </ul>
       </div>
