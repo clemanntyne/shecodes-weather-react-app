@@ -15,11 +15,17 @@ export default function Weather() {
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
             alt="cloudy"
-            className="img"
+            className="currentimg"
           />
           <span className="temperature">50</span>
           <span className="units">
-            <a href="#">°F</a> | <a href="#">°C</a>
+            <a className="Far" href="#">
+              °F
+            </a>{" "}
+            |
+            <a className="cel" href="#">
+              °C
+            </a>
           </span>
         </div>
         <div className="col-6 conditions">

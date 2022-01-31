@@ -1,4 +1,4 @@
-ul {
+.weather ul {
   list-style-type: none;
   padding: 0px;
 }
@@ -10,7 +10,7 @@ ul {
   font-size: 64px;
 }
 
-a {
+.weather a {
   text-decoration: none;
 }
 
@@ -19,7 +19,7 @@ a {
   top: -34px;
 }
 
-.img {
+.currentimg {
   position: relative;
   top: -15px;
 }
