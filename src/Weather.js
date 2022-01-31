@@ -18,15 +18,7 @@ export default function Weather() {
             className="currentimg"
           />
           <span className="temperature">50</span>
-          <span className="units">
-            <a className="Far" href="#">
-              °F
-            </a>{" "}
-            |
-            <a className="cel" href="#">
-              °C
-            </a>
-          </span>
+          <span className="units">°F</span>
         </div>
         <div className="col-6 conditions">
           <ul>
