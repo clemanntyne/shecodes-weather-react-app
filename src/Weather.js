@@ -1,14 +1,10 @@
 import React from "react";
 
+import "./Weather.css";
+
 export default function Weather() {
   return (
     <div className="weather">
-      <form>
-        <input type="search" placeholder="City.." />
-        <button type="submit" className="btn btn-primary">
-          Search
-        </button>
-      </form>
       <ul>
         <li>New York</li>
         <li>Last Updated: Today 3:49 pm</li>

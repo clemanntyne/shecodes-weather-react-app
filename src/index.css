@@ -2,11 +2,8 @@ body {
   border: gray;
   border-radius: 10px;
   border-style: solid;
-  margin: 0px auto;
+  margin-left: 30px;
+  max-width: 780px;
   border-width: thin;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  padding-top: 20px;
 }
